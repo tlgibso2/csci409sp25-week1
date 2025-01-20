@@ -1,0 +1,5 @@
+a. *.log
+b. *.pot
+c. *.pyc
+d. __pycache__/
+e. db.sqlite3
